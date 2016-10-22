@@ -1,0 +1,18 @@
+# Change Log
+Proyect: PermAlias
+
+## [Unreleased]
+### TODO
+- Support rm option for manipulation of Aliases.
+- Support modification for existing Aliases.
+- Support duplicate alias control @ creation.
+
+## Version 1.0.0 [Current] - 21-10-2016
+# Added
+- New repository for the proyect.
+- The proyect, part of UnUbuntu and now an independent entity.
+- Independent Makefile.
+- ReadMe.
+- CHANGELOG.
+- src.
+- LICENSE.
